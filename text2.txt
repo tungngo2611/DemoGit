@@ -1,2 +1,2 @@
-merge for master + developmerge for master + develop
+merge for master + develop
 for feature branch
